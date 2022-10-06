@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 Feel free to reach me: rdprajapati@icloud
 - ⚡ Fun fact: Tardigrades can live in space
 
-![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwiftzer&show_icons=true&theme=radical)
+![schwiftzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwiftzer&show_icons=true&theme=radical)

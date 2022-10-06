@@ -6,5 +6,6 @@
 - 📫 Feel free to reach me: rdprajapati@icloud.com
 - ⚡ Fun fact: Tardigrades can live in space
 
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/schwiftzer?cardType=level&theme=blue-green&Ring=DDA30C)](https://git.io/awesome-stats-card)
+![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=schwiftzer&theme=swift&hide=prs,contribs&show_icons=true)
+
 
